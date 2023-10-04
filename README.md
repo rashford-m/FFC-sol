@@ -1,3 +1,0 @@
-# FFC-sol
-
-Tutorial from FREE CODE CAMP SOLIDITY COURSE
