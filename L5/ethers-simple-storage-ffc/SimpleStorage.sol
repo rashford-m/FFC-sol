@@ -37,5 +37,3 @@ contract SimpleStorage {
 
 
 
-
-
